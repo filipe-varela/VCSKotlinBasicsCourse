@@ -1,0 +1,16 @@
+# Project exclude paths
+/.gradle/
+/Topics/Errors in programs/Fix the program/out/
+/Topics/Errors in programs/Fix the program/out/production/classes/
+/Topics/For loop and ranges/Count the numbers/out/
+/Topics/For loop and ranges/Count the numbers/out/production/classes/
+/Topics/For loop and ranges/The longest sequence/out/
+/Topics/For loop and ranges/The longest sequence/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/For loop and ranges/Theory/build/
+/Topics/For loop and ranges/Theory/out/
+/Topics/For loop and ranges/Theory/out/production/classes/
+/Version Control System/task/build/
+/Version Control System/task/out/
+/Version Control System/task/out/production/classes/

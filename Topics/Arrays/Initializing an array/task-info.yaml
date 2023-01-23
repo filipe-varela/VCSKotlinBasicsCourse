@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val numbers = // put your code here
+
+        // do not touch the lines below
+        println(numbers.joinToString())
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7866#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 30 Dec 2022 18:05:38 UTC"
+record: -1

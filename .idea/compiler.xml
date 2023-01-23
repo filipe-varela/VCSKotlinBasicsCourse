@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Version_Control_System.Topics-Arrays-Initializing_an_array.main" target="8" />
+      <module name="Version_Control_System.Topics-Arrays-Theory.main" target="8" />
+      <module name="Version_Control_System.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="8" />
+      <module name="Version_Control_System.Topics-Errors_in_programs-Fix_the_program.main" target="8" />
+      <module name="Version_Control_System.Topics-Errors_in_programs-Theory.main" target="8" />
+      <module name="Version_Control_System.Topics-For_loop_and_ranges-Check_the_order.main" target="8" />
+      <module name="Version_Control_System.Topics-For_loop_and_ranges-Count_the_numbers.main" target="8" />
+      <module name="Version_Control_System.Topics-For_loop_and_ranges-Define_a_for-loop.main" target="8" />
+      <module name="Version_Control_System.Topics-For_loop_and_ranges-The_longest_sequence.main" target="8" />
+      <module name="Version_Control_System.Topics-For_loop_and_ranges-The_roots_of_equation.main" target="8" />
+      <module name="Version_Control_System.Topics-For_loop_and_ranges-Theory.main" target="8" />
+      <module name="Version_Control_System.Topics-Functions_as_objects-Function_composition.main" target="8" />
+      <module name="Version_Control_System.Topics-Functions_as_objects-Theory.main" target="8" />
+      <module name="Version_Control_System.Topics-Lambda_expressions-Polynomial.main" target="8" />
+      <module name="Version_Control_System.Topics-Lambda_expressions-Range_multiplication.main" target="8" />
+      <module name="Version_Control_System.Topics-Lambda_expressions-Theory.main" target="8" />
+      <module name="Version_Control_System.Topics-What_is_an_exception-Behavior_of_an_exception.main" target="8" />
+      <module name="Version_Control_System.Topics-What_is_an_exception-Cause_an_exception.main" target="8" />
+      <module name="Version_Control_System.Topics-What_is_an_exception-Theory.main" target="8" />
+      <module name="Version_Control_System.Topics-What_is_an_exception-Time_for_exceptions.main" target="8" />
+      <module name="Version_Control_System.Topics-When_expression-Just_checking.main" target="8" />
+      <module name="Version_Control_System.Topics-When_expression-String_processor.main" target="8" />
+      <module name="Version_Control_System.Topics-When_expression-Strings_as_objects.main" target="8" />
+      <module name="Version_Control_System.Topics-When_expression-Theory.main" target="8" />
+      <module name="Version_Control_System.util.main" target="8" />
+      <module name="Version_Control_System.Version_Control_System-task-build-classes-kotlin.main" target="8" />
+      <module name="Version_Control_System.Version_Control_System-task-build-reports-tests.main" target="8" />
+      <module name="Version_Control_System.Version_Control_System-task-build-test-results.main" target="8" />
+      <module name="Version_Control_System.Version_Control_System-task-build-tmp.main" target="8" />
+      <module name="Version_Control_System.Version_Control_System-task.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
